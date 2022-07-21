@@ -1,4 +1,9 @@
 body {
-    background-color: #20213b;
-    color: #ffffff
+    background-color: #1c1e3b;
+}
+
+.hi{
+  color: #ffffff;
+  text-align: center;
+  font-size: 10vw;
 }
